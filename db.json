@@ -1,5 +1,5 @@
 {
-  "Company": {
+  "company": {
     "name": "Laboratoria",
     "footPrint": [
       {
@@ -41,7 +41,7 @@
     ]
   },
 
-  "Employee": {
+  "employee": {
     "name": "Huella de C de empleados",
     "footPrint": [
       {
