@@ -12,7 +12,7 @@
 
 ## ¿Qué es chile marca preferencia?<a name="id1"></a>
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Chile Marca Preferencia es un proyecto de FCI que tiene como objetivo entregar a lxs ciudadanxs datos actualizados respecto de las posturas y definiciones políticas de determinadxs actorxs.
 
 ## Guía de instalación<a name="id2"></a>
 
