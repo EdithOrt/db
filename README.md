@@ -30,8 +30,8 @@ Chile Marca Preferencia es un proyecto de FCI que tiene como objetivo entregar a
 
 - Ruby 6.6.0 https://www.ruby-lang.org/es/
 - Javascript
-- Node JS https://nodejs.org/es/
-- Npm https://www.npmjs.com/
+- ~~Node JS https://nodejs.org/es/~~
+- ~~Npm https://www.npmjs.com/~~
 - HTML
 - CSS
 - Sass https://sass-lang.com/
